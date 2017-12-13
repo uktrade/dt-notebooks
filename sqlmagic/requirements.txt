@@ -1,0 +1,4 @@
+matplotlib
+pandas<0.21.1
+pandas-datareader<0.5.0
+pip install -e git://github.com/catherinedevlin/ipython-sql.git@1c5877361f67ef110cce3b2b713749b33ed8514e#egg=ipython-sql
